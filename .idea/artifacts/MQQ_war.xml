@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="MQQ:war">
-    <output-path>$PROJECT_DIR$/../MQQ/target</output-path>
-    <root id="archive" name="MQQ.war">
-      <element id="artifact" artifact-name="MQQ:war exploded" />
-    </root>
-  </artifact>
-</component>
